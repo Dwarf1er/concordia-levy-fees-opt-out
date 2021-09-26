@@ -38,23 +38,23 @@ The form requires certain information to accept your opt out request, you will h
 
 ### Required Information
 
-    * Your browser of choice, see the [supported browser list](#user-content-supported-browsers)
-    * Your first name
-    * Your last name
-    * Your email address
-    * Your 8 digit student ID
-    * The amount of credits you are registered for during the current semester
-    * The path to an image of your semester schedule where the credits are visible (see your schedule in your student portal)
-    * The path to an image of your student ID card
+    - Your browser of choice, see the [supported browser list](#user-content-supported-browsers)
+    - Your first name
+    - Your last name
+    - Your email address
+    - Your 8 digit student ID
+    - The amount of credits you are registered for during the current semester
+    - The path to an image of your semester schedule where the credits are visible (see your schedule in your student portal)
+    - The path to an image of your student ID card
 
 ## Supported Browsers
 
 The following browsers are supported by this tool:
 
-    * Chrome
-    * Chromium
-    * Firefox
-    * Edge (chromium based)
+    - Chrome
+    - Chromium
+    - Firefox
+    - Edge (chromium based)
 
 Internet Explorer and Opera are supported by the webdriver-manager package's developer but I personally would not recommend their use and decided not to include them. If you ever want to use any of these non-included browsers I recommend you look at the [official documentation for webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager). However I only tested my tool with the aforementioned browsers, using IE or Opera might need further modifications.
 
