@@ -2,7 +2,7 @@
 
 WARNING: As of now this script is incomplete, the form submission closed before I could finish the script, I will complete it once the next semester's form rolls over
 
-Concordia Levy Fees Opt Out aims at automatically filling the levy fee opt out form for Concordia University students. This tool makes the process of opting out even easier! You provide the [required information](user-content-required-information) and the form is filled automatically for you!
+Concordia Levy Fees Opt Out aims at automatically filling the levy fee opt out form for Concordia University students. This tool makes the process of opting out even easier! You provide the [required information](#user-content-required-information) and the form is filled automatically for you!
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ The form requires certain information to accept your opt out request, you will h
 
 ### Required Information
 
-    * Your browser of choice, see the [supported browser list](user-content-supported-browsers)
+    * Your browser of choice, see the [supported browser list](#user-content-supported-browsers)
     * Your first name
     * Your last name
     * Your email address
